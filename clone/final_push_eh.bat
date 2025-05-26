@@ -1,6 +1,6 @@
 @echo off
 
-SET gitHubRepository=Session-4
+SET gitHubRepository=Session5
 SET gitHubUsername=EddyHUART
 
 :: Créer le message de commit avec la date et l'heure
