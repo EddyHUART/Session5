@@ -1,5 +1,5 @@
 @echo off
-SET gitHubRepository=Session-4
+SET gitHubRepository=Session5
 SET gitHubUsername=EddyHUART
 
 :: Vérifie si le dossier existe déjà
